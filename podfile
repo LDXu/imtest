@@ -1,0 +1,5 @@
+platform :ios, ‘8.0’
+target 'imtest' do
+pod 'SDWebImage', '~> 3.8.1'
+pod 'SVProgressHUD', '~> 2.0.3'
+end
